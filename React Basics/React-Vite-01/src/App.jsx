@@ -1,8 +1,13 @@
+import Bet from './Bet.jsx';
+
 
 function App() {
 
   return (
-    <h1>Hello World With Vite</h1>
+    <>
+    <Bet/>
+    <h1>Hello world</h1>
+    </>
   )
 }
 
