@@ -30,8 +30,6 @@ function customRender(reactElement, container){
     FIRST VERSION (Hardcoded)
     ==========================================================
 
-    This was the first implementation.
-
     It only works for one specific element because
     every property is manually written.
 
@@ -56,9 +54,6 @@ function customRender(reactElement, container){
     3. Not reusable.
     4. React doesn't work like this.
     */
-
-
-
 
     /*
     ==========================================================
