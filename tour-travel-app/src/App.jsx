@@ -3,7 +3,7 @@ import Layout from './Components/Layout/Layout'
 import Hero from './Components/Sections/Hero'
 import ToursList from './Components/Sections/ToursList'
 import Testimonials from './Components/Sections/Testimonials'
-import Newsletter from './Components/Sections/Newsletter'
+import Newsletter from './Components/Sections/NewsLetter'
 import tours from './Data/tours'
 import testimonials from './Data/testimonials'
 import BookingForm from './Components/Ui/BookingForm'
@@ -49,7 +49,7 @@ function App() {
         <Testimonials testimonials={testimonials} />
 
         {/* Email subscription section */}
-        <Newsletter />
+        <NewsLetter />
 
       </Layout>
 

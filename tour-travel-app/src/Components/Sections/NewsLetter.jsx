@@ -3,7 +3,7 @@ import Button from '../Ui/Button'
 // Full-width newsletter section with background image overlay
 // Designed as a marketing call-to-action area
 
-export default function Newsletter() {
+export default function NewsLetter() {
   return (
     <section
       id="newsletter"
