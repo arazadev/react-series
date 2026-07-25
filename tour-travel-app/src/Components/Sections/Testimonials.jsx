@@ -47,7 +47,7 @@ export default function Testimonials({ testimonials }) {
               <div className="flex items-center gap-4">
                 <div className="overflow-hidden rounded-full">
                   <img
-                    src={t.avatar}
+                    src={t.image}
                     alt={t.name}
                     className="
                       h-16
